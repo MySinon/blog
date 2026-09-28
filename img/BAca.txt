@@ -1,0 +1,10 @@
+📁 public_html/blog/
+├── index.html
+└── 📁 img/
+    └── 📁 blog/
+        ├── anime-2025.jpg
+        ├── server-hp.jpg
+        ├── f1-motogp.jpg
+        ├── belajar-web.jpg
+        ├── jam-3-pagi.jpg
+        └── cloud-gaming.jpg
